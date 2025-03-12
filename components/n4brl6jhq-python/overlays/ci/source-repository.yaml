@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: n4brl6jhq-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/n4brl6jhq-python
